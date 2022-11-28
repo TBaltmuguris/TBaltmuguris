@@ -1,5 +1,5 @@
 
-### :raising_hand: &nbsp;About Me
+### :raising_hand: &nbsp; Hi! Wanted to tell a little more about myself:
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp; Currently studying at [SSE Riga](https://www.sseriga.edu/) (Stockholm School of Economics in Riga) (Class of 2022) \
 &nbsp;&nbsp;&nbsp;:bar_chart: &nbsp; Love the finance, analytics and sports fields.\
