@@ -1,7 +1,7 @@
 
 ### :raising_hand: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying at [SSER](https://www.sseriga.edu/) (Stockholm School of Economics in Riga) (Class of 2022) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying at [SSE Riga](https://www.sseriga.edu/) (Stockholm School of Economics in Riga) (Class of 2022) \
 &nbsp;&nbsp;&nbsp;:bar_chart: &nbsp;Love for finance, analytics and sports.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and data analytics.\
 &nbsp;&nbsp;&nbsp;:earth_africa: &nbsp;Currently living in Latvia, Riga 
